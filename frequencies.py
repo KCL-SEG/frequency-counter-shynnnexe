@@ -3,5 +3,6 @@
 
 def frequencies(items):
     frequencies = {}
-    # Your code goes here
+    for item in items:
+        pass                  
     return frequencies
